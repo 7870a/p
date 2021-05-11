@@ -1,3 +1,3 @@
 cd ../u
-sh ck.sh 1
+sh ck.sh 2
 exit
